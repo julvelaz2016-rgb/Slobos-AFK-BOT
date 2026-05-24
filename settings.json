@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SticksCraft.aternos.me:36021",
+    "ip": "SticksCraft.aternos.me",
     "port": 36021,
     "version": "1.21.1"
   },
